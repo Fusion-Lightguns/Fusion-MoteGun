@@ -23,6 +23,10 @@ This is a open source moded Lightgun made from Dolphin Bar & Wii Mote.
 
    - Glue & screws
 
+   - Dolphin Bar 
+
+     https://www.amazon.com/Mayflash-W010-Wireless-Sensor-DolphinBar/dp/B00HZWEB74/ref=sr_1_3?crid=369WQPTITS5MJ&keywords=dolphin+bar&qid=1668790754&sprefix=pcb+charging+usb+c%2Caps%2C275&sr=8-3
+
 
 
 # Instructions 
@@ -87,9 +91,13 @@ Instructions
     
     - Insert back screws / pins
 
+# Setup 
+
+This is still a wii mote acting as mouse input. So same setup you had before. Never setup search Youtube and Google some good setup videos. 
 
 
 
-# Soon youll be able to buy a premade Fusion Mote
+
+# At some point youll be able to buy a premade Fusion Mote Kit 
 
 - LINK WILL BE HERE WHEN AVIALABLE 
