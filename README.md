@@ -77,7 +77,7 @@ You will need
 
 Instructions
 
-    - Remove litte "clamp" on front of wii mote
+    - Remove litte "clamp" on front of gun for wii mote
 
     - Put cover where it was
 
