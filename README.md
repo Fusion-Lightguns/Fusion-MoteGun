@@ -101,3 +101,5 @@ This is still a wii mote acting as mouse input. So same setup you had before. Ne
 # At some point youll be able to buy a premade Fusion Mote Kit 
 
 - LINK WILL BE HERE WHEN AVIALABLE 
+
+- Estimated current retail cost is $60-75 plus shipping. Again estimated.
