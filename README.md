@@ -19,7 +19,7 @@ This is a Open source moded Lightgun made from Dolphin Bar & Wii Mote.
 
    - Female PCB
 
-    https://www.amazon.com/whiteeeen-4pcs-Type-Breakout-Board/dp/B09BW3HG49/ref=sr_1_37?crid=2P3KKEW5GH0PN&keywords=usb+c+pcb&qid=1668789423&s=electronics&sprefix=usb+c+pcb%2Celectronics%2C199&sr=1-37
+     https://www.amazon.com/whiteeeen-4pcs-Type-Breakout-Board/dp/B09BW3HG49/ref=sr_1_37?crid=2P3KKEW5GH0PN&keywords=usb+c+pcb&qid=1668789423&s=electronics&sprefix=usb+c+pcb%2Celectronics%2C199&sr=1-37
 
    - Glue & screws
 
