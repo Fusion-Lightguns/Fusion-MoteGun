@@ -1,6 +1,6 @@
 # Fusion-Mote
 
-This is a open source moded Lightgun made from Dolphin Bar & Wii Mote.
+This is a open source moded Lightgun made from Dolphin Bar, Wii Mote & a few other parts.
 
 
 # What you need .
