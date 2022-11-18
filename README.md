@@ -9,7 +9,7 @@ This is a open source moded Lightgun made from Dolphin Bar & Wii Mote.
       
       https://www.amazon.com/dp/B00FJ2KUJU/ref=emc_b_5_i
 
-   - Pre Made Gun Case For Wii Mote. This can be done with any Gun, heres the one we use ATM.
+   - Pre Made Gun Case For Wii Mote. This can be done with any Gun, heres the one I use ATM.
 
       https://www.amazon.com/NioTech-Wii-Motion-Plus-Nintendo-Black/dp/B00B47WVLE/ref=sr_1_4?crid=395W6Y6RU25&keywords=wii+gun&qid=1668788621&sprefix=wii+g%2Caps%2C153&sr=8-4
       
