@@ -5,23 +5,23 @@ This is a Open source moded Lightgun made from Dolphin Bar & Wii Mote.
 
 # What you need .
 
-- Battery Pack
+      - Battery Pack
       
       https://www.amazon.com/dp/B00FJ2KUJU/ref=emc_b_5_i
 
-- Pre Made Gun Case For Wii Mote. This can be done with any Gun, heres the one we use ATM.
+      - Pre Made Gun Case For Wii Mote. This can be done with any Gun, heres the one we use ATM.
 
       https://www.amazon.com/NioTech-Wii-Motion-Plus-Nintendo-Black/dp/B00B47WVLE/ref=sr_1_4?crid=395W6Y6RU25&keywords=wii+gun&qid=1668788621&sprefix=wii+g%2Caps%2C153&sr=8-4
       
-- A drill, screwdriver, and some tools.
+      - A drill, screwdriver, and some tools.
 
-- Soldering Iron & solder
+      - Soldering Iron & solder
 
-- Female PCB
+      - Female PCB
 
     https://www.amazon.com/whiteeeen-4pcs-Type-Breakout-Board/dp/B09BW3HG49/ref=sr_1_37?crid=2P3KKEW5GH0PN&keywords=usb+c+pcb&qid=1668789423&s=electronics&sprefix=usb+c+pcb%2Celectronics%2C199&sr=1-37
 
-- Glue & screws
+      - Glue & screws
 
 
 
@@ -66,8 +66,8 @@ This is a Open source moded Lightgun made from Dolphin Bar & Wii Mote.
 
 # Optional Customizing
 
-Buttton Cover for above linked gun
 
+---Buttton Cover for above linked gun---
 
 You will need
 
@@ -90,10 +90,6 @@ Instructions
 
 
 
-Made from a modified wii mote and dolphin bar
+# Soon youll be able to buy a premade Fusion Mote
 
-Rechargeable battery pack
-
-Plug in port bottom of gun handle.
-
-Custom printed cover
+- LINK WILL BE HERE WHEN AVIALABLE 
