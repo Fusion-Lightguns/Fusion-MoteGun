@@ -1,4 +1,4 @@
-# This is the spot for Fusion Mote builds Pics
+# This is the spot for Fusion MoteGun builds Pics
 
 Build pics title meaning 
 
