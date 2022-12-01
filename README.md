@@ -29,8 +29,7 @@ This is a open source moded Lightgun made from Dolphin Bar, Wii Mote & a few oth
      
      - IR LEDS . Optional improves accuracy.  But Dolphin bar must be out of sight
      
-     https://www.aliexpress.us/item/3256804461379218.html?algo_pvid=98f19f3a-8245-4354-9db5-b848b4085bf9&algo_exp_id=98f19f3a-8245-4354-9db5-b848b4085bf9-1&pdp_ext_f=%7B%22sku_id%22%3A%2212000030655976726%22%7D&pdp_npi=2%40dis%21USD%2182.0%2177.08%21%21%21%21%21%402101e9d316699120692378708eaf30%2112000030655976726%21sea&curPageLogUid=DgTDtef7eeDw
-
+     [https://www.aliexpress.us/item/3256804461379218.html?algo_pvid=98f19f3a-8245-4354-9db5-b848b4085bf9&algo_exp_id=98f19f3a-8245-4354-9db5-b848b4085bf9-1&pdp_ext_f=%7B%22sku_id%22%3A%2212000030655976726%22%7D&pdp_npi=2%40dis%21USD%2182.0%2177.08%21%21%21%21%21%402101e9d316699120692378708eaf30%2112000030655976726%21sea&curPageLogUid=DgTDtef7eeDw
 
 
 # Instructions 
