@@ -26,6 +26,10 @@ This is a open source moded Lightgun made from Dolphin Bar, Wii Mote & a few oth
    - Dolphin Bar 
 
      https://www.amazon.com/Mayflash-W010-Wireless-Sensor-DolphinBar/dp/B00HZWEB74/ref=sr_1_3?crid=369WQPTITS5MJ&keywords=dolphin+bar&qid=1668790754&sprefix=pcb+charging+usb+c%2Caps%2C275&sr=8-3
+     
+     - IR LEDS . Optional improves accuracy.  But Dolphin bar must be out of sight
+     
+     https://www.aliexpress.us/item/3256804461379218.html?algo_pvid=98f19f3a-8245-4354-9db5-b848b4085bf9&algo_exp_id=98f19f3a-8245-4354-9db5-b848b4085bf9-1&pdp_ext_f=%7B%22sku_id%22%3A%2212000030655976726%22%7D&pdp_npi=2%40dis%21USD%2182.0%2177.08%21%21%21%21%21%402101e9d316699120692378708eaf30%2112000030655976726%21sea&curPageLogUid=DgTDtef7eeDw
 
 
 
@@ -66,6 +70,8 @@ This is a open source moded Lightgun made from Dolphin Bar, Wii Mote & a few oth
 - Put wii mote in gun case
 
 - ENJOY!
+
+- If you got LEDs then mount in/on Top of TV in center, Left side of TV centered, Bottom of Tv centered & Left Side of TV centered.
 
 
 # Optional Customizing
