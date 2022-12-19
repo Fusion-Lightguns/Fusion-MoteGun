@@ -148,6 +148,12 @@ This is a open source moded Lightgun made from Dolphin Bar, Wii Mote & a few oth
 
 # At some point youll be able to buy a premade Fusion Mote Kit 
 
-- LINK WILL BE HERE WHEN AVIALABLE 
+     - LINK WILL BE HERE WHEN AVIALABLE 
 
-- Estimated current retail cost is $60-75 plus shipping. Again estimated.
+     - Estimated current retail cost:  (updated 12/18/22)
+     
+          Wireless: $50 plus shipping 
+          
+          Wired: $75 plus shipping.
+          
+          ESTIMATE AGAIN I REPEAT ESTIMATE.
