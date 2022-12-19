@@ -152,8 +152,8 @@ This is a open source moded Lightgun made from Dolphin Bar, Wii Mote & a few oth
 
      - Estimated current retail cost:  (updated 12/18/22)
      
-          Wireless: $50 plus shipping 
+          Wireless: $75 plus shipping 
           
-          Wired: $75 plus shipping.
+          Wired: $90 plus shipping.
           
           ESTIMATE AGAIN I REPEAT ESTIMATE.
