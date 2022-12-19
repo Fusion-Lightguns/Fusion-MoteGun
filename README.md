@@ -6,7 +6,7 @@ This is a open source moded Lightgun made from Dolphin Bar, Wii Mote & a few oth
 
 # What you need 
      
-   - Battery to power adapter
+    - Battery to power adapter
    
       https://amzn.to/3YsJvPD
       
@@ -16,9 +16,9 @@ This is a open source moded Lightgun made from Dolphin Bar, Wii Mote & a few oth
       
     - Wii USB IR LEDS . Optional improves accuracy. 
     
-   Wireless:  https://amzn.to/3BFWp2T
+        Wireless:  https://amzn.to/3BFWp2T
    
-   Wired: https://amzn.to/3huR0VD
+        Wired: https://amzn.to/3huR0VD
    
    
 # Instructions
@@ -42,78 +42,78 @@ This is a open source moded Lightgun made from Dolphin Bar, Wii Mote & a few oth
 
 # What you need 
 
-   - Battery Pack
+    - Battery Pack
       
       https://amzn.to/3FAdhJz
       
-   - Pre Made Gun Case For Wii Mote. This can be done with any Gun, heres the one I use ATM.
+    - Pre Made Gun Case For Wii Mote. This can be done with any Gun, heres the one I use ATM.
 
       https://amzn.to/3WtZpam
       
-   - A drill, screwdriver, and some tools.
+    - A drill, screwdriver, and some tools.
 
-   - Soldering Iron & solder
+    - Soldering Iron & solder
 
-   - Female PCB
+    - Female PCB
 
      https://amzn.to/3PBW2Mo
 
-   - Glue & screws
+    - Glue & screws
 
-   - Dolphin Bar 
+    - Dolphin Bar 
 
-   https://amzn.to/3HH86Kt
+     https://amzn.to/3HH86Kt
      
     - Wii USB IR LEDS . Optional improves accuracy. 
     
-   Wireless:  https://amzn.to/3BFWp2T
+       Wireless:  https://amzn.to/3BFWp2T
    
-   Wired: https://amzn.to/3huR0VD
+       Wired: https://amzn.to/3huR0VD
 
 
 # Instructions 
 
-- Charge new battery
+     - Charge new battery
 
-- Open up gun case 
+     - Open up gun case 
 
-- Measure cord included with gun
+     - Measure cord included with gun
 
-- Cut cord a inch or two longer than end off where you want female connector
+     - Cut cord a inch or two longer than end off where you want female connector
 
-- Solder to female connector 
+     - Solder to female connector 
 
-- IF your pcb has LED solder them
+     - IF your pcb has LED solder them
 
-- Check mounting PCB in gun case
+     - Check mounting PCB in gun case
 
-- Drill / cut out spot for USB C female.
+     - Drill / cut out spot for USB C female.
 
-- Drill / cut put spot for cord to go to Wii Mote battery
+     - Drill / cut put spot for cord to go to Wii Mote battery
 
-- IF your pcb has LEDs cut hole for it 
+     - IF your pcb has LEDs cut hole for it 
 
-- IF your pcb has LEDs mount them 
+     - IF your pcb has LEDs mount them 
 
-- Mount PCB. Glue or screw it into gun case half
+     - Mount PCB. Glue or screw it into gun case half
 
-- Run cord through battery hole (depends how you cut hole)
+     - Run cord through battery hole (depends how you cut hole)
 
-- Assemble gun case 
+     - Assemble gun case 
 
-- Put battery in Wii mote 
+     - Put battery in Wii mote 
 
-- Glue cord to battery (optional). WAIT TO DRY 
+     - Glue cord to battery (optional). WAIT TO DRY 
 
-- Put wii mote in gun case
+     - Put wii mote in gun case
 
-- ENJOY!
+     - ENJOY!
 
-- If you got LEDs then mount in/on Top of TV in center, Left side of TV centered, Bottom of Tv centered & Left Side of TV centered.
+     - If you got LEDs then mount in/on Top of TV in center, Left side of TV centered, Bottom of Tv centered & Left Side of TV centered.
 
-- If your using a Dolphin bar and a second wii bar. Place on on top one on bottom of TV.
+     - If your using a Dolphin bar and a second wii bar. Place on on top one on bottom of TV.
 
-- Remeber that female connector is to charge your new gun. 
+     - Remeber that female connector is to charge your new gun. 
 
 
 # Optional Customizing
@@ -121,13 +121,13 @@ This is a open source moded Lightgun made from Dolphin Bar, Wii Mote & a few oth
 
 ---Buttton Cover for above linked gun---
 
-You will need
+    You will need
 
-    - 4 Screws or pins 
+       - 4 Screws or pins 
 
-    - 3D Printed cover
+       - 3D Printed cover
 
-Instructions
+    Instructions
 
     - Remove litte "clamp" on front of gun for wii mote
 
@@ -141,7 +141,7 @@ Instructions
 
 # Setup 
 
-This is still a wii mote acting as mouse input. So same setup you had before. Never setup search Youtube and Google some good setup videos. 
+     This is still a wii mote acting as mouse input. So same setup you had before. Never setup search Youtube and Google some good setup videos. 
 
 
 
