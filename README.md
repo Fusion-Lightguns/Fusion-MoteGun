@@ -19,6 +19,14 @@ This is a open source moded Lightgun made from Dolphin Bar, Wii Mote & a few oth
         Wireless:  https://amzn.to/3BFWp2T
    
         Wired: https://amzn.to/3huR0VD
+
+    - Pre Made Gun Case For Wii Mote. This can be done with any Gun, heres the one I use ATM.
+
+      https://amzn.to/3WtZpam
+      
+    - A drill, screwdriver, and some tools.
+
+    - Soldering Iron & solder
    
    
 # Instructions
@@ -149,11 +157,20 @@ This is a open source moded Lightgun made from Dolphin Bar, Wii Mote & a few oth
 # At some point youll be able to buy a premade Fusion Mote Kit 
 
      - LINK WILL BE HERE WHEN AVIALABLE 
+     
+     - Comes with 
+     
+          - Dolphin Bar
+          
+          - Extra Wii IR Bar
+          
+          - Moded Wii gun 
+          
 
      - Estimated current retail cost:  (updated 12/18/22)
      
-          Wireless: $75 plus shipping 
+          Wireless: $100 plus shipping 
           
-          Wired: $90 plus shipping.
-          
+          Wired: $80 plus shipping.
+                    
           ESTIMATE AGAIN I REPEAT ESTIMATE.
